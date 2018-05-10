@@ -1,3 +1,3 @@
 ## DuoRC
 
-See https://rahular.github.io/duorc/ for more details
+See https://duorc.github.io/ for more details
