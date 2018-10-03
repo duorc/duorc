@@ -1,0 +1,9 @@
+*.pyc
+utils/lucene_index_9m/*
+utils/lucene_index_9m
+utils/annoy_index/*
+utils/annoy_index
+utils/annoy_index.zip
+data/all_movie_data.pkl
+output/*
+output

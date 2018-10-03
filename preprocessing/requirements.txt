@@ -1,0 +1,9 @@
+nltk==3.2.1
+regex4dummies==1.4.6
+gensim==3.2.0
+annoy==1.8.0
+Unidecode==0.04.20
+spacy==2.0.12
+inflect==1.0.1
+java==0.0.1
+org==1.0.0
