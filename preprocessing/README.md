@@ -13,4 +13,5 @@
 	   ...	
    }
 }
-```		
+```
+* [Step 7] : Download SpanModel_BiDAF_data.zip from https://drive.google.com/file/d/1UsNderjmQ2xHCeS0GX3ff-eyud5s4T13/view?usp=sharing, which contains the preprocessed data in the BiDAF format
