@@ -1,4 +1,5 @@
 ## DuoRC
+DuoRC contains 186,089 unique question-answer pairs created from a collection of 7680 pairs of movie plots where each pair in the collection reflects two versions of the same movie.
 
 ### Evaluation
 For evaluation, the answers should be stored in a JSON file with the following format:
@@ -9,9 +10,9 @@ For evaluation, the answers should be stored in a JSON file with the following f
     ...
 }
 ```
-**Note**: 'NA' is the expected string for `no answer`
+**Note**: `NA` is the expected string for `no answer`
 
-Use the provided evaluation script to calculate the exact match and F1 scores
+Next, use the provided evaluation script to calculate the exact match and F1 scores:
 ```
 python evaluate.py <test-file-path>.json <answer-file-path>.json
 ```
